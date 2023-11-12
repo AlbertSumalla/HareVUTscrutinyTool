@@ -6,11 +6,11 @@
 # Per obrir l'aplicatiu de conversio a exe, posa al terminal "python -m auto_py_to_exe" sense les cometes
 
 # Aquest codi preten realitzar l'escrutini de una votació amb vot uinic transferible amb quocient hare
-#de forma automàtica i en temps real. Es pot executar tant ronda per ronda com tot de cop.
-#El codi inclou un formulari d'inici, un selector de paperetes interactiu i la finestra de l'algoritme.
-#S'ha utilitzat tkinter com a framework per treballar sobre finestres per ser """"senzill""""" i prou potent.
+# de forma automàtica i en temps real. Es pot executar tant ronda per ronda com tot de cop.
+# El codi inclou un formulari d'inici, un selector de paperetes interactiu i la finestra de l'algoritme.
+# S'ha utilitzat tkinter com a framework per treballar sobre finestres per ser """"senzill""""" i prou potent.
 
 # Millores: Falta completar el codi necessari per a que es pugui resetejar una papereta en el selector un cop ha estat escollida.
 # Faltarien codis d'error en el selector de paperetes, de moment no n'hi ha cap
-#Bugs: En el primer formulari, el frame contingut dins la scrollbar no es mou al redimensionar la finestra. Al sortir algun codi d'error
+# Bugs: En el primer formulari, el frame contingut dins la scrollbar no es mou al redimensionar la finestra. Al sortir algun codi d'error
 # es desplaça el frame a la esquerra.
