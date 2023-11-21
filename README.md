@@ -1,5 +1,5 @@
 # -----HareVUTscrutinyTool-----
-# Aquest codi preten realitzar l'escrutini de una votació amb vot uinic transferible amb quocient hare
+# Aquest codi preten realitzar l'escrutini d'una votació amb vot unic transferible amb quocient hare
 # de forma automàtica i en temps real. Es pot executar tant ronda per ronda com tot de cop.
 # El codi inclou un formulari d'inici, un selector de paperetes interactiu i la finestra de l'algoritme.
 
